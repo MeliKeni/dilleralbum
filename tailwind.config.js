@@ -1,0 +1,56 @@
+/** @type {import('tailwindcss').Config} */
+module.exports = {
+  content: [
+    './app/**/*.{js,jsx,ts,tsx}',
+    './components/**/*.{js,jsx,ts,tsx}',
+  ],
+  presets: [require('nativewind/preset')],
+  theme: {
+    extend: {
+      colors: {
+        primary: {
+          DEFAULT: '#1B4FD8',
+          50: '#EFF4FF',
+          100: '#DBE8FE',
+          200: '#BFCFFE',
+          300: '#93ADFD',
+          400: '#6083FA',
+          500: '#3B5EF6',
+          600: '#2B42EB',
+          700: '#1B4FD8',
+          800: '#1A3DAD',
+          900: '#1B3889',
+        },
+        secondary: {
+          DEFAULT: '#3BBFBF',
+          50: '#F0FAFA',
+          100: '#CCEFEF',
+          200: '#A0DEDE',
+          300: '#66C7C7',
+          400: '#3BBFBF',
+          500: '#2AA3A3',
+          600: '#238484',
+          700: '#1E6A6A',
+          800: '#1A5555',
+          900: '#184545',
+        },
+        accent: {
+          DEFAULT: '#E8A020',
+          50: '#FFFBEB',
+          100: '#FEF3C7',
+          200: '#FDE68A',
+          300: '#FCD34D',
+          400: '#FBBF24',
+          500: '#F59E0B',
+          600: '#E8A020',
+          700: '#D97706',
+          800: '#B45309',
+          900: '#92400E',
+        },
+        surface: '#0A0E1A',
+        card: '#111827',
+      },
+    },
+  },
+  plugins: [],
+};

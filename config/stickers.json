@@ -1,0 +1,249 @@
+{
+  "album": {
+    "id": "00000000-0000-0000-0000-000000000001",
+    "name": "Official Sticker Album DTF",
+    "slug": "dtf-2026"
+  },
+  "packConfig": {
+    "stickersPerPack": 5,
+    "includeExtras": true
+  },
+  "pages": [
+    {
+      "id": "00000000-0000-0000-0000-000000000010",
+      "pageNumber": 1,
+      "name": "Argentina",
+      "backgroundImage": "pages/page1.png"
+    }
+  ],
+  "stickers": [
+    {
+      "number": "ARG001",
+      "displayName": "FIGURITA 1",
+      "image": "stickers/sticker001.png",
+      "isExtra": false,
+      "panoramicGroup": null,
+      "position": { "x": 3.0, "y": 5.0, "width": 16.5, "height": 28.0 },
+      "metadata": { "birthdate": "", "city": "", "country": "ARG" }
+    },
+    {
+      "number": "ARG002",
+      "displayName": "FIGURITA 2",
+      "image": "stickers/sticker002.png",
+      "isExtra": false,
+      "panoramicGroup": null,
+      "position": { "x": 21.5, "y": 5.0, "width": 16.5, "height": 28.0 },
+      "metadata": {}
+    },
+    {
+      "number": "ARG003",
+      "displayName": "FIGURITA 3",
+      "image": "stickers/sticker003.png",
+      "isExtra": false,
+      "panoramicGroup": null,
+      "position": { "x": 40.0, "y": 5.0, "width": 16.5, "height": 28.0 },
+      "metadata": {}
+    },
+    {
+      "number": "ARG004",
+      "displayName": "PANORÁMICA A",
+      "image": "stickers/sticker004.png",
+      "isExtra": false,
+      "panoramicGroup": "argentina-panoramic",
+      "position": { "x": 58.5, "y": 5.0, "width": 16.5, "height": 28.0 },
+      "metadata": {}
+    },
+    {
+      "number": "ARG005",
+      "displayName": "PANORÁMICA B",
+      "image": "stickers/sticker005.png",
+      "isExtra": false,
+      "panoramicGroup": "argentina-panoramic",
+      "position": { "x": 77.0, "y": 5.0, "width": 16.5, "height": 28.0 },
+      "metadata": {}
+    },
+    {
+      "number": "ARG006",
+      "displayName": "FIGURITA 6",
+      "image": "stickers/sticker006.png",
+      "isExtra": false,
+      "panoramicGroup": null,
+      "position": { "x": 3.0, "y": 36.0, "width": 12.5, "height": 22.0 },
+      "metadata": {}
+    },
+    {
+      "number": "ARG007",
+      "displayName": "FIGURITA 7",
+      "image": "stickers/sticker007.png",
+      "isExtra": false,
+      "panoramicGroup": null,
+      "position": { "x": 16.5, "y": 36.0, "width": 12.5, "height": 22.0 },
+      "metadata": {}
+    },
+    {
+      "number": "ARG008",
+      "displayName": "FIGURITA 8",
+      "image": "stickers/sticker008.png",
+      "isExtra": false,
+      "panoramicGroup": null,
+      "position": { "x": 30.0, "y": 36.0, "width": 12.5, "height": 22.0 },
+      "metadata": {}
+    },
+    {
+      "number": "ARG009",
+      "displayName": "FIGURITA 9",
+      "image": "stickers/sticker009.png",
+      "isExtra": false,
+      "panoramicGroup": null,
+      "position": { "x": 43.5, "y": 36.0, "width": 12.5, "height": 22.0 },
+      "metadata": {}
+    },
+    {
+      "number": "ARG010",
+      "displayName": "FIGURITA 10",
+      "image": "stickers/sticker010.png",
+      "isExtra": false,
+      "panoramicGroup": null,
+      "position": { "x": 57.0, "y": 36.0, "width": 12.5, "height": 22.0 },
+      "metadata": {}
+    },
+    {
+      "number": "ARG011",
+      "displayName": "FIGURITA 11",
+      "image": "stickers/sticker011.png",
+      "isExtra": false,
+      "panoramicGroup": null,
+      "position": { "x": 70.5, "y": 36.0, "width": 12.5, "height": 22.0 },
+      "metadata": {}
+    },
+    {
+      "number": "ARG012",
+      "displayName": "FIGURITA 12",
+      "image": "stickers/sticker012.png",
+      "isExtra": false,
+      "panoramicGroup": null,
+      "position": { "x": 84.0, "y": 36.0, "width": 12.5, "height": 22.0 },
+      "metadata": {}
+    },
+    {
+      "number": "ARG013",
+      "displayName": "FIGURITA 13",
+      "image": "stickers/sticker013.png",
+      "isExtra": false,
+      "panoramicGroup": null,
+      "position": { "x": 3.0, "y": 61.0, "width": 12.5, "height": 22.0 },
+      "metadata": {}
+    },
+    {
+      "number": "ARG014",
+      "displayName": "FIGURITA 14",
+      "image": "stickers/sticker014.png",
+      "isExtra": false,
+      "panoramicGroup": null,
+      "position": { "x": 16.5, "y": 61.0, "width": 12.5, "height": 22.0 },
+      "metadata": {}
+    },
+    {
+      "number": "ARG015",
+      "displayName": "FIGURITA 15",
+      "image": "stickers/sticker015.png",
+      "isExtra": false,
+      "panoramicGroup": null,
+      "position": { "x": 30.0, "y": 61.0, "width": 12.5, "height": 22.0 },
+      "metadata": {}
+    },
+    {
+      "number": "ARG016",
+      "displayName": "FIGURITA 16",
+      "image": "stickers/sticker016.png",
+      "isExtra": false,
+      "panoramicGroup": null,
+      "position": { "x": 43.5, "y": 61.0, "width": 12.5, "height": 22.0 },
+      "metadata": {}
+    },
+    {
+      "number": "ARG017",
+      "displayName": "FIGURITA 17",
+      "image": "stickers/sticker017.png",
+      "isExtra": false,
+      "panoramicGroup": null,
+      "position": { "x": 57.0, "y": 61.0, "width": 12.5, "height": 22.0 },
+      "metadata": {}
+    },
+    {
+      "number": "ARG018",
+      "displayName": "FIGURITA 18",
+      "image": "stickers/sticker018.png",
+      "isExtra": false,
+      "panoramicGroup": null,
+      "position": { "x": 70.5, "y": 61.0, "width": 12.5, "height": 22.0 },
+      "metadata": {}
+    },
+    {
+      "number": "ARG019",
+      "displayName": "FIGURITA 19",
+      "image": "stickers/sticker019.png",
+      "isExtra": false,
+      "panoramicGroup": null,
+      "position": { "x": 84.0, "y": 61.0, "width": 12.5, "height": 22.0 },
+      "metadata": {}
+    },
+    {
+      "number": "ARG020",
+      "displayName": "FIGURITA 20",
+      "image": "stickers/sticker020.png",
+      "isExtra": false,
+      "panoramicGroup": null,
+      "position": { "x": 3.0, "y": 86.0, "width": 12.5, "height": 12.0 },
+      "metadata": {}
+    },
+    {
+      "number": "ARG021",
+      "displayName": "FIGURITA 21",
+      "image": "stickers/sticker021.png",
+      "isExtra": false,
+      "panoramicGroup": null,
+      "position": { "x": 16.5, "y": 86.0, "width": 12.5, "height": 12.0 },
+      "metadata": {}
+    },
+    {
+      "number": "ARG022",
+      "displayName": "FIGURITA 22",
+      "image": "stickers/sticker022.png",
+      "isExtra": false,
+      "panoramicGroup": null,
+      "position": { "x": 30.0, "y": 86.0, "width": 12.5, "height": 12.0 },
+      "metadata": {}
+    }
+  ],
+  "extras": [
+    {
+      "number": "EXT001",
+      "displayName": "EXTRA 1",
+      "image": "extras/extra001.png",
+      "isExtra": true,
+      "metadata": {}
+    },
+    {
+      "number": "EXT002",
+      "displayName": "EXTRA 2",
+      "image": "extras/extra002.png",
+      "isExtra": true,
+      "metadata": {}
+    },
+    {
+      "number": "EXT003",
+      "displayName": "EXTRA 3",
+      "image": "extras/extra003.png",
+      "isExtra": true,
+      "metadata": {}
+    },
+    {
+      "number": "EXT004",
+      "displayName": "EXTRA 4",
+      "image": "extras/extra004.png",
+      "isExtra": true,
+      "metadata": {}
+    }
+  ]
+}

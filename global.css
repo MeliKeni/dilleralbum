@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-bg: #0A0E1A;
+  --color-card: #111827;
+  --color-border: #1F2937;
+  --color-text: #F9FAFB;
+  --color-muted: #6B7280;
+  --color-primary: #3B82F6;
+}
+
+body, #root, [data-rnw-root] {
+  background-color: #0A0E1A;
+  color: #F9FAFB;
+  font-family: system-ui, -apple-system, sans-serif;
+}
+
+/* Fix NativeWind surface color */
+.bg-surface { background-color: #0A0E1A !important; }
+.bg-white { background-color: #111827 !important; }
+.text-gray-900 { color: #F9FAFB !important; }
+.text-gray-700 { color: #D1D5DB !important; }
+.text-gray-500 { color: #9CA3AF !important; }
+.text-gray-400 { color: #6B7280 !important; }
+.border-gray-100 { border-color: #1F2937 !important; }
+.border-gray-200 { border-color: #1F2937 !important; }
+.bg-gray-50 { background-color: #1F2937 !important; }
+.bg-gray-100 { background-color: #1F2937 !important; }
+.bg-gray-200 { background-color: #374151 !important; }
